@@ -127,6 +127,6 @@ opts["cookiefile"] = "cookies.txt"
 
 ## 📜 License
 
-MIT – use freely, but respect platform Terms of Service.
+use freely, but respect platform Terms of Service.
 
 Creator: Mario
