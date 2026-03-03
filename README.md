@@ -111,7 +111,7 @@ docker run -e BOT_TOKEN=your_token_here social-dl-bot
 
 ## ⚠️ Limitations
 
-- Telegram bots can only send files up to **50 MB**
+- Telegram bots can only send files up to **250 MB**
 - Videos are capped at **720p** to stay within limits
 - Private / login-required content won't work
 - Instagram may require cookies for some content
