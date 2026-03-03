@@ -5,6 +5,7 @@ Enjoy :)
 # 📥 Social Media Downloader Telegram Bot
 
 A powerful Telegram bot that downloads videos, audio, and images from 1000+ social media platforms using [yt-dlp](https://github.com/yt-dlp/yt-dlp).
+Only Video, Audio, and Thumbnails are supported.
 
 ## ✅ Supported Platforms
 
